@@ -43,3 +43,4 @@ nb-configuration.xml
 /.quarkus/cli/plugins/
 # TLS Certificates
 .certs/
+linear-element-434220-j7-c6080403ae41.json
